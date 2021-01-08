@@ -1,0 +1,56 @@
+.container{
+width:60%;
+float:left;
+padding: 0 0 0 30px;
+background:red;
+}
+
+.sidebar{
+width:40%;
+float:right;
+padding:10px;
+background:green;
+height:100%
+
+}
+
+h1{
+text-align:center;
+border-bottom: 1px solid yellow;
+padding-bottom:20px;
+}
+
+body{
+color:white;
+background:red;
+}
+
+#date {
+color:yellow;
+font-size:15px;
+font-style:italic;
+
+}
+
+#ch{
+color:yellow;
+font-size:30px;
+font-style:italic;
+border-bottom: 2px soild yellow;
+}
+
+a{
+color:yellow;
+}
+
+input[type="text"]{
+background:blue;
+color:white;
+}
+
+#pcount{
+font-size: 40px;
+color: yellow;
+font-weight: blod;
+
+}
